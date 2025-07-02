@@ -94,7 +94,7 @@ A Trello-style real-time task board built with **Next.js**, **Socket.io**, and *
 ## 🛠️ Getting Started
 
 ```bash
-git clone [https://github.com/yourusername/realtime-task-board.git]
+git clone [(https://github.com/Ateeq1997/Task-Board.git)]
 cd realtime-task-board
 npm install
 npm run dev
