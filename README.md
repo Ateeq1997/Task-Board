@@ -29,9 +29,13 @@ A Trello-style real-time task board built with **Next.js**, **Socket.io**, and *
 📂 Folder Structure
 
 ├── components/
+
 │   ├── Board.js
+
 │   ├── Column.js
+
 │   ├── Modal.js
+
 ├── context/
 │   └── BoardContext.js
 ├── hooks/
